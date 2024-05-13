@@ -12,7 +12,7 @@ namespace MultiShop.DAL
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer($"Server=CA-R214-PC11\\SQLEXPRESS;Database=ShahinMultiShop;Trusted_Connection=true;TrustServerCertificate=true");
+            optionsBuilder.UseSqlServer("Server=CA-R214-PC11\\SQLEXPRESS;Database=ShahinMultiShop;Trusted_Connection=true;TrustServerCertificate=true;");
             base.OnConfiguring(optionsBuilder);
         }
 

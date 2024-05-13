@@ -12,8 +12,11 @@ namespace MultiShop
             builder.Services.AddDbContext<AppDbContext>();
             var app = builder.Build();
             app.UseStaticFiles();
-            
             app.MapControllerRoute(
+           name: "areas",
+           pattern: "{area:exists}/{controller=Category}/{action=Index}/{id?}");
+
+           app.MapControllerRoute(
                 "default",
                 "{controller=home}/{action=index}"
                 );

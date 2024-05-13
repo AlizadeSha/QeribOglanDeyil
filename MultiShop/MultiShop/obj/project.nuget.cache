@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/cjOMwb/9GTb4/j+/1raqz7JZsuiTSxi6CZqZEJUw0qL9wQjU/0cEIZ3IQUaN1InQ+fBr2oyufrNkTYjo8VQEw==",
+  "dgSpecHash": "83B0LHylZHiPa2giFp9uFmf64IEPDsm+FfYwJsBGXQ3db7JyUIx/KSCkpahz1f/k2ubJL7aIhHsExOLpybQrbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ca.r214.11\\Desktop\\AB106CSharp\\StaticInterfacePractise\\MultiShop\\MultiShop\\MultiShop.csproj",
+  "projectFilePath": "C:\\Users\\ca.r214.11\\Desktop\\QerubOGlandeyil\\MultiShop\\MultiShop\\MultiShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ca.r214.11\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\ca.r214.11\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
